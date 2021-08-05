@@ -1,0 +1,18 @@
+body{
+    padding: 0 auto;
+    margin: 0 auto;
+}
+#header{
+    width: 100%;
+}
+#header .nav-link{
+    color: black;
+    border: solid 1px transparent;
+}
+#header .nav-link:hover{
+    border-bottom: solid 2px black;
+}
+#header .container-fluid{
+    padding: 0 auto;
+    height: 100%;
+}

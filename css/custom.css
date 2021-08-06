@@ -4,15 +4,23 @@ body{
 }
 #header{
     width: 100%;
+    background: linear-gradient(90deg, rgba(43,43,69,1) 0%, rgba(155,36,38,1) 100%);
 }
 #header .nav-link{
-    color: black;
     border: solid 1px transparent;
 }
 #header .nav-link:hover{
-    border-bottom: solid 2px black;
+    border-bottom: solid 2px white;
 }
 #header .container-fluid{
-    padding: 0 auto;
-    height: 100%;
+    background-color: ;
+    height: 60px;
+}
+
+#banner #logo{
+    height: 125px;
+}
+#banner{
+    padding: 10px 0 10px;
+    text-align: center;
 }

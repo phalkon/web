@@ -19,3 +19,7 @@ body{
     padding: 10px 0 10px;
     text-align: center;
 }
+#about .container-fluid{
+    color: #ffffff;
+    background-color:rgb(43, 43, 69);
+}

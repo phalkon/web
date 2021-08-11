@@ -1,6 +1,7 @@
 body{
     padding: 0 auto;
     margin: 0 auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 #header{
     width: 100%;
@@ -21,5 +22,6 @@ body{
 }
 #about .container-fluid{
     color: #ffffff;
+    padding: 5% 0 5%  0;
     background-color:rgb(43, 43, 69);
 }
